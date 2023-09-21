@@ -1,0 +1,14 @@
+# Ignore the "node_modules" directory
+node_modules/
+
+# Ignore specific PDF files
+*.pdf
+
+# Ignore the "Dockerfile"
+Dockerfile
+
+# Ignore the "Project.pdf"
+Project.pdf
+
+# Ignore the "Submission.pages"
+Submission.pages
